@@ -104,7 +104,7 @@ const AdrianBL = () => {
           </li>
           <li>
             <a
-              href="/services"
+              href="/service"
               className="hover:text-gray-500"
             >
               my envolment
