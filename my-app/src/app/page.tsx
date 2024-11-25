@@ -76,7 +76,7 @@ const AdrianBL = () => {
         }}
       ></div>
 
-      <div className="menu absolute bottom-1/2 right-[-10rem] -rotate-90">
+      <div className="menu absolute bottom-1/2 right-[-10rem] -rotate-90 px-5">
         <ul className="flex gap-4">
           <li>
             <a target="_blank" rel="noopener noreferrer" 
