@@ -99,7 +99,7 @@ const AdrianBL = () => {
               href=""
               className="hover:text-gray-500"
             >
-              contact
+             not opened
             </a>
           </li>
           <li>
@@ -107,7 +107,7 @@ const AdrianBL = () => {
               href="/service"
               className="hover:text-gray-500"
             >
-              my envolment
+              my stuff
             </a>
           </li>
         </ul>
